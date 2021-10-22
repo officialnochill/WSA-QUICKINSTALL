@@ -18,4 +18,4 @@ Installation (Ensure that Developer mode in WSA is enabled beforehand):
 
 Now just double click any APK you want and it should install instantly. 
 
-Credits to (https://github.com/99fk) for bat to exe and remixicon.com for the Android logo.
+Credits to (https://github.com/99fk) for bat to exe, HarshalKudale for making the same script before me and remixicon.com for the Android logo.

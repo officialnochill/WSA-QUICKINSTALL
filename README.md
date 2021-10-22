@@ -1,6 +1,6 @@
 # WSA-QUICKINSTALL
 A simple script for installing apks onto the Windows Subsystem for Android by simply double clicking it. 
-This is just a bat script run through bat to exe to allow Windows to set it as a default app for .apk files.
+This is just a bat script run through bat to exe (https://github.com/99fk) to allow Windows to set it as a default app for .apk files.
 Includes ADB.
 
 Installation (Ensure that Developer mode in WSA is enabled beforehand):

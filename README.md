@@ -2,6 +2,7 @@
 A simple script for installing apks onto the Windows Subsystem for Android by simply double clicking it. 
 This is just a bat script run through bat to exe to allow Windows to set it as a default app for .apk files.
 Includes ADB.
+Windows Defender can faslely flag this for whatever reason, so keep that in mind. 
 
 Installation (Ensure that Developer mode in WSA is enabled beforehand):
 

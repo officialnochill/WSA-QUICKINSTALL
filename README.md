@@ -13,4 +13,6 @@ Installation (Ensure that Developer mode in WSA is enabled beforehand):
 ![Screenshot (126)](https://user-images.githubusercontent.com/63358288/138408800-1203fde0-3e12-4c41-b022-86e6d0cf6fb2.png)
 4) Browse to the location you extracted the ZIP and select install.exe
 ![Screenshot (127)](https://user-images.githubusercontent.com/63358288/138408967-795c50db-0b61-4e85-a78e-57fd355ac51d.png)
-5) Now just double click any APK you want and it should install instantly. 
+5) Apply settings.
+
+Now just double click any APK you want and it should install instantly. 

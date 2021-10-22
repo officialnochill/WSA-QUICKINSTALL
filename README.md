@@ -5,7 +5,7 @@ Includes ADB.
 
 Installation (Ensure that Developer mode in WSA is enabled beforehand):
 
-1) Extract the ZIP 
+1) Extract the ZIP (NOTE: Windows Defender falsely flags the exe)
 2) Right click on any APK Files and select properties.
 ![Screenshot (125)](https://user-images.githubusercontent.com/63358288/138408565-915ff6aa-6226-4b22-bc0b-20827f408504.png)
 2) Select change 
